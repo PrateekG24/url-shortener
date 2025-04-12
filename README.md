@@ -41,7 +41,7 @@ This project is a full-stack URL shortener application. Users can input a long U
 ## Setup Instructions
 
 ### Backend Setup
-1. **Navigate to the backend folder.
+1. **Navigate to the backend folder.**
 2. **Install dependencies:**
    ```bash
    npm install    
@@ -51,8 +51,9 @@ This project is a full-stack URL shortener application. Users can input a long U
 4. **Before running the backend, ensure you have MongoDB installed and running locally. If you need to change the connection URL (for example, if your MongoDB instance runs on a different port or uses authentication), update the connection string in index.js where connectToMongoDB is called.**
 ### Frontend Setup
 1. **Navigate to the backend folder.**
+2. **Install dependencies:**
    ```bash
    npm install
-2. **Start the frontend development server.**
+3. **Start the frontend development server.**
    ```bash
    npm run dev
